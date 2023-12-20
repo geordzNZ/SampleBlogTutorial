@@ -8,7 +8,7 @@ image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "Thumbnail of Astro arcs."
 pubDate: 2023-12-18
-tags: ["astro", "blogging", "learning in public", "successes","GK2"]
+tags: ["astro", "blogging", "learning in public", "successes","gk2"]
 ---
 
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
